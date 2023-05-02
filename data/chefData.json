@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "image_url": "https://as1.ftcdn.net/v2/jpg/04/94/90/68/1000_F_494906852_BMrMlMnXnlhwyCvH0mPWFfuINE36enEe.jpg",
       "name": "Alice Smith",
       "title": "Executive Chef",
       "details": "Alice is a classically trained chef with a passion for creating innovative dishes using locally sourced ingredients.",
@@ -10,6 +11,7 @@
     },
     {
       "id": 2,
+      "image_url": "https://as2.ftcdn.net/v2/jpg/01/86/60/51/1000_F_186605168_mNGYB4I4Ze9mn9q9kJr9jmobXfTjsFsU.jpg",
       "name": "Bob Johnson",
       "title": "Sous Chef",
       "details": "Bob has worked in some of the top kitchens in the country and specializes in creating flavorful sauces and marinades.",
@@ -19,6 +21,7 @@
     },
     {
       "id": 3,
+      "image_url": "https://as1.ftcdn.net/v2/jpg/01/62/54/88/1000_F_162548807_8tLHPGm0OylfVVmSNxnxO111nsn8vygu.jpg",
       "name": "Cathy Nguyen",
       "title": "Pastry Chef",
       "details": "Cathy's love of baking started when she was young, and she has honed her skills over the years to create stunning desserts that taste as good as they look.",
@@ -28,6 +31,7 @@
     },
     {
       "id": 4,
+      "image_url": "https://as1.ftcdn.net/v2/jpg/01/38/52/70/1000_F_138527066_3LzQ3mJcZJncRXzapbuthULtjnu90Qot.jpg",
       "name": "David Kim",
       "title": "Sushi Chef",
       "details": "David has trained in Japan and specializes in creating beautiful and delicious sushi dishes that showcase the freshest ingredients.",
@@ -37,6 +41,7 @@
     },
     {
       "id": 5,
+      "image_url": "https://as2.ftcdn.net/v2/jpg/01/19/96/99/1000_F_119969940_UfHKTu7B13MUTCvtxJ3h5thvgojt72xS.jpg",
       "name": "Emily Chen",
       "title": "Line Cook",
       "details": "Emily is a hardworking and dedicated cook who takes pride in creating high-quality dishes that exceed guests' expectations.",
@@ -46,6 +51,7 @@
     },
     {
       "id": 6,
+      "image_url": "https://as1.ftcdn.net/v2/jpg/03/89/16/14/1000_F_389161429_lh2PtfFBD1YLz4WUVZCI1jfPa5KbyT3a.jpg",
       "name": "Frank Rodriguez",
       "title": "Grill Cook",
       "details": "Frank is a grill master who knows how to perfectly cook steaks, burgers, and other meats to guests' specifications.",
