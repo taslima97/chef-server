@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "title": "Executive Chef",
+      "details": "Alice is a classically trained chef with a passion for creating innovative dishes using locally sourced ingredients.",
+      "years_of_experience": 10,
+      "num_recipes": 50,
+      "num_likes": 1000
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "title": "Sous Chef",
+      "details": "Bob has worked in some of the top kitchens in the country and specializes in creating flavorful sauces and marinades.",
+      "years_of_experience": 7,
+      "num_recipes": 30,
+      "num_likes": 500
+    },
+    {
+      "id": 3,
+      "name": "Cathy Nguyen",
+      "title": "Pastry Chef",
+      "details": "Cathy's love of baking started when she was young, and she has honed her skills over the years to create stunning desserts that taste as good as they look.",
+      "years_of_experience": 5,
+      "num_recipes": 20,
+      "num_likes": 300
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "title": "Sushi Chef",
+      "details": "David has trained in Japan and specializes in creating beautiful and delicious sushi dishes that showcase the freshest ingredients.",
+      "years_of_experience": 8,
+      "num_recipes": 40,
+      "num_likes": 800
+    },
+    {
+      "id": 5,
+      "name": "Emily Chen",
+      "title": "Line Cook",
+      "details": "Emily is a hardworking and dedicated cook who takes pride in creating high-quality dishes that exceed guests' expectations.",
+      "years_of_experience": 3,
+      "num_recipes": 10,
+      "num_likes": 100
+    },
+    {
+      "id": 6,
+      "name": "Frank Rodriguez",
+      "title": "Grill Cook",
+      "details": "Frank is a grill master who knows how to perfectly cook steaks, burgers, and other meats to guests' specifications.",
+      "years_of_experience": 6,
+      "num_recipes": 15,
+      "num_likes": 200
+    }
+  ]
