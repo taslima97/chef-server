@@ -7,7 +7,30 @@
       "details": "Alice is a classically trained chef with a passion for creating innovative dishes using locally sourced ingredients.",
       "years_of_experience": 10,
       "num_recipes": 50,
-      "num_likes": 1000
+      "num_likes": 1000,
+      "Recipe": {
+        "recipe_name": "Chicken Alfredo",
+        "img1": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img2": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img3": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "ingredients": [
+          "1 pound fettuccine pasta",
+          "2 tablespoons butter",
+          "2 boneless chicken breasts, cut into strips",
+          "2 garlic cloves, minced",
+          "2 cups heavy cream"
+        ],
+        "method": [
+          "Cook pasta according to package instructions.",
+          "In a large skillet, melt butter over medium heat.",
+          "Add chicken strips and cook until no longer pink.",
+          "Add garlic and cook for 1 minute.",
+          "Pour heavy cream into skillet and stir until heated through.",
+          "Drain pasta and add to skillet. Toss to coat with sauce.",
+          "Serve hot, topped with grated Parmesan cheese if desired."
+        ],
+        "rating": 4.2
+      }
     },
     {
       "id": 2,
@@ -17,7 +40,35 @@
       "details": "Bob has worked in some of the top kitchens in the country and specializes in creating flavorful sauces and marinades.",
       "years_of_experience": 7,
       "num_recipes": 30,
-      "num_likes": 500
+      "num_likes": 500,
+      "Recipe": {
+        "recipe_name": "Chocolate Chip Cookies",
+        "img1": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img2": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img3": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "ingredients": [
+          "2 1/4 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1 teaspoon salt",
+          "1 cup unsalted butter, at room temperature",
+          "3/4 cup white sugar",
+          "3/4 cup brown sugar",
+          "2 large eggs",
+          "2 teaspoons vanilla extract",
+          "2 cups semisweet chocolate chips"
+        ],
+        "method": [
+          "Preheat oven to 375°F (190°C).",
+          "In a medium bowl, whisk together flour, baking soda, and salt.",
+          "In a large bowl, cream together butter, white sugar, and brown sugar until smooth.",
+          "Beat in eggs one at a time, then stir in vanilla.",
+          "Stir in flour mixture until just combined, then fold in chocolate chips.",
+          "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+          "Bake for 8 to 10 minutes, until lightly golden brown.",
+          "Let cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+        ],
+        "rating": 4.8
+      }
     },
     {
       "id": 3,
@@ -27,7 +78,29 @@
       "details": "Cathy's love of baking started when she was young, and she has honed her skills over the years to create stunning desserts that taste as good as they look.",
       "years_of_experience": 5,
       "num_recipes": 20,
-      "num_likes": 300
+      "num_likes": 300,
+      "Recipe": {
+        "recipe_name": "Classic Lasagna",
+        "img1": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img2": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img3": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 pound sweet Italian sausage",
+          "1 box lasagna noodles",
+          "2 cups shredded mozzarella cheese",
+          "1/2 cup grated Parmesan cheese"
+        ],
+        "method": [
+          "Preheat oven to 375°F.",
+          "In a large skillet, cook ground beef and sausage over medium-high heat until browned.",
+          "Cook lasagna noodles according to package directions.",
+          "In a 9x13 inch baking dish, layer noodles, meat mixture, mozzarella cheese, and Parmesan cheese. Repeat layers until all ingredients are used up.",
+          "Bake in preheated oven for 25 minutes, or until cheese is melted and bubbly.",
+          "Let cool for a few minutes before serving."
+        ],
+        "rating": 4.8
+      }
     },
     {
       "id": 4,
@@ -37,7 +110,29 @@
       "details": "David has trained in Japan and specializes in creating beautiful and delicious sushi dishes that showcase the freshest ingredients.",
       "years_of_experience": 8,
       "num_recipes": 40,
-      "num_likes": 800
+      "num_likes": 800,
+      "Recipe":{
+        "recipe_name": "Chicken Alfredo",
+        "img1": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img2": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img3": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "ingredients": [
+          "1 pound fettuccine",
+          "2 cups heavy cream",
+          "1/2 cup butter",
+          "1/2 cup grated Parmesan cheese",
+          "2 boneless, skinless chicken breasts"
+        ],
+        "method": [
+          "Cook fettuccine according to package directions.",
+          "In a large skillet, cook chicken breasts over medium-high heat until no longer pink.",
+          "In a saucepan, heat heavy cream and butter over low heat until butter is melted.",
+          "Stir in Parmesan cheese until sauce is smooth.",
+          "Add cooked fettuccine and chicken to the sauce and toss to combine.",
+          "Serve hot, garnished with additional Parmesan cheese if desired."
+        ],
+        "rating": 4.5
+      }
     },
     {
       "id": 5,
@@ -47,7 +142,36 @@
       "details": "Emily is a hardworking and dedicated cook who takes pride in creating high-quality dishes that exceed guests' expectations.",
       "years_of_experience": 3,
       "num_recipes": 10,
-      "num_likes": 100
+      "num_likes": 100,
+      "Recipe":  {
+        "recipe_name": "Chocolate Chip Cookies",
+        "img1": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img2": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img3": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "ingredients": [
+          "2 1/4 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1 teaspoon salt",
+          "1 cup unsalted butter, at room temperature",
+          "3/4 cup white sugar",
+          "3/4 cup brown sugar",
+          "2 eggs",
+          "2 teaspoons vanilla extract",
+          "2 cups semisweet chocolate chips"
+        ],
+        "method": [
+          "Preheat oven to 375°F.",
+          "In a bowl, whisk together flour, baking soda, and salt.",
+          "In a separate bowl, beat butter, white sugar, and brown sugar together until creamy.",
+          "Beat in eggs and vanilla extract.",
+          "Add flour mixture to butter mixture and stir until just combined.",
+          "Fold in chocolate chips.",
+          "Drop dough by rounded tablespoons onto a baking sheet lined with parchment paper.",
+          "Bake for 8-10 minutes, or until golden brown.",
+          "Let cool for a few minutes on the baking sheet before transferring to a wire rack to cool completely."
+        ],
+        "rating": 4.9
+      }
     },
     {
       "id": 6,
@@ -57,6 +181,35 @@
       "details": "Frank is a grill master who knows how to perfectly cook steaks, burgers, and other meats to guests' specifications.",
       "years_of_experience": 6,
       "num_recipes": 15,
-      "num_likes": 200
+      "num_likes": 200,
+      "Recipe":  {
+        "recipe_name": "Chocolate Chip Cookies",
+        "img1": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img2": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img3": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "ingredients": [
+          "2 1/4 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1 teaspoon salt",
+          "1 cup unsalted butter, at room temperature",
+          "3/4 cup white sugar",
+          "3/4 cup brown sugar",
+          "2 eggs",
+          "2 teaspoons vanilla extract",
+          "2 cups semisweet chocolate chips"
+        ],
+        "method": [
+          "Preheat oven to 375°F.",
+          "In a bowl, whisk together flour, baking soda, and salt.",
+          "In a separate bowl, beat butter, white sugar, and brown sugar together until creamy.",
+          "Beat in eggs and vanilla extract.",
+          "Add flour mixture to butter mixture and stir until just combined.",
+          "Fold in chocolate chips.",
+          "Drop dough by rounded tablespoons onto a baking sheet lined with parchment paper.",
+          "Bake for 8-10 minutes, or until golden brown.",
+          "Let cool for a few minutes on the baking sheet before transferring to a wire rack to cool completely."
+        ],
+        "rating": 4.9
+      }
     }
   ]
