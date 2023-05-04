@@ -11,8 +11,8 @@
       "Recipe": {
         "recipe_name": "Chicken Alfredo",
         "img1": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
-        "img2": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
-        "img3": "https://as1.ftcdn.net/v2/jpg/00/27/57/96/1000_F_27579652_tM7V4fZBBw8RLmZo0Bi8WhtO2EosTRFD.jpg",
+        "img2": "https://img.freepik.com/free-photo/gourmet-lifestyle-cocina-yummy-foodie_1350-49.jpg?w=1380&t=st=1683207296~exp=1683207896~hmac=671807126eb441c91af17f610d12a81777c3edefb6921adfb203a1385f0522ac",
+        "img3": "https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=996&t=st=1683207550~exp=1683208150~hmac=45be5b9f1ffd241c9ed097d6df770d029dd4378f847d03c0df074e18402d0362",
         "ingredients": [
           "1 pound fettuccine pasta",
           "2 tablespoons butter",
@@ -24,10 +24,8 @@
           "Cook pasta according to package instructions.",
           "In a large skillet, melt butter over medium heat.",
           "Add chicken strips and cook until no longer pink.",
-          "Add garlic and cook for 1 minute.",
-          "Pour heavy cream into skillet and stir until heated through.",
-          "Drain pasta and add to skillet. Toss to coat with sauce.",
-          "Serve hot, topped with grated Parmesan cheese if desired."
+          "Add garlic and cook for 1 minute."
+         
         ],
         "rating": 4.2
       }
@@ -62,10 +60,8 @@
           "In a medium bowl, whisk together flour, baking soda, and salt.",
           "In a large bowl, cream together butter, white sugar, and brown sugar until smooth.",
           "Beat in eggs one at a time, then stir in vanilla.",
-          "Stir in flour mixture until just combined, then fold in chocolate chips.",
-          "Drop rounded tablespoons of dough onto ungreased baking sheets.",
-          "Bake for 8 to 10 minutes, until lightly golden brown.",
-          "Let cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+          "Stir in flour mixture until just combined, then fold in chocolate chips."
+          
         ],
         "rating": 4.8
       }
@@ -95,9 +91,8 @@
           "Preheat oven to 375°F.",
           "In a large skillet, cook ground beef and sausage over medium-high heat until browned.",
           "Cook lasagna noodles according to package directions.",
-          "In a 9x13 inch baking dish, layer noodles, meat mixture, mozzarella cheese, and Parmesan cheese. Repeat layers until all ingredients are used up.",
-          "Bake in preheated oven for 25 minutes, or until cheese is melted and bubbly.",
-          "Let cool for a few minutes before serving."
+          "In a 9x13 inch baking dish, layer noodles, meat mixture, mozzarella cheese, and Parmesan cheese. Repeat layers until all ingredients are used up."
+          
         ],
         "rating": 4.8
       }
@@ -126,10 +121,8 @@
         "method": [
           "Cook fettuccine according to package directions.",
           "In a large skillet, cook chicken breasts over medium-high heat until no longer pink.",
-          "In a saucepan, heat heavy cream and butter over low heat until butter is melted.",
-          "Stir in Parmesan cheese until sauce is smooth.",
-          "Add cooked fettuccine and chicken to the sauce and toss to combine.",
-          "Serve hot, garnished with additional Parmesan cheese if desired."
+          "In a saucepan, heat heavy cream and butter over low heat until butter is melted."
+          
         ],
         "rating": 4.5
       }
@@ -165,10 +158,8 @@
           "In a separate bowl, beat butter, white sugar, and brown sugar together until creamy.",
           "Beat in eggs and vanilla extract.",
           "Add flour mixture to butter mixture and stir until just combined.",
-          "Fold in chocolate chips.",
-          "Drop dough by rounded tablespoons onto a baking sheet lined with parchment paper.",
-          "Bake for 8-10 minutes, or until golden brown.",
-          "Let cool for a few minutes on the baking sheet before transferring to a wire rack to cool completely."
+          "Fold in chocolate chips."
+         
         ],
         "rating": 4.9
       }
@@ -204,10 +195,8 @@
           "In a separate bowl, beat butter, white sugar, and brown sugar together until creamy.",
           "Beat in eggs and vanilla extract.",
           "Add flour mixture to butter mixture and stir until just combined.",
-          "Fold in chocolate chips.",
-          "Drop dough by rounded tablespoons onto a baking sheet lined with parchment paper.",
-          "Bake for 8-10 minutes, or until golden brown.",
-          "Let cool for a few minutes on the baking sheet before transferring to a wire rack to cool completely."
+          "Fold in chocolate chips."
+          
         ],
         "rating": 4.9
       }
